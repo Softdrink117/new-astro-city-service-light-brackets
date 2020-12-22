@@ -6,7 +6,7 @@
 
 ## Overview
 
-![The clips, as printed](./clips_printed.jpg)
+![A view into the service door, showing the extra illumination.](./light_fromdoor.jpg)
 
 When working on my New Astro City, I noticed that the interior could get quite dark; doing maintenance tasks or connecting new game boards was often inconvenienced by the poor visbility. I decided to mount a 24" LED light fixture inside the cabinet, to provide some much-needed extra illumination. Initially, I held the light fixture in place with zip-ties; however, I wanted something that was sturdier and more aesthetically pleasing. I also wanted anything I used to be non-destructive to the cabinet.
 
@@ -15,6 +15,7 @@ To this end, I designed some custom 3D-printable bracket clips to securely mount
 ## Design & Printing
 
 ![A 3D render of the clip](./TubeLightClip_3DRender_01.png)
+![The clips, as printed](./clips_printed.jpg)
 
 The clips are designed to attach to the lower part of the monitor support frame (the metal structures that are above and below the monitor, and that hold the four corner bolts used to secure it in place). They are made to be printed at 100% fill, and are currently specced for use with a resin printer. They are designed to flex slightly during the installation process, so it may be necessary to adjust the thickness or other print properties if printing them with an FDM printer or with a different material.
 
@@ -49,5 +50,18 @@ When mounted, the clip should be snug enough that it will not slide from side to
 
 ## Photos
 
+![A view into the service door, showing the extra illumination.](./light_fromdoor.jpg)
+![A view of the game board area from above, showing the illumination provided.](./light_fromabove.jpg)
+Multiple views to show the extra illumination from the service light.
+
+![An image showing the light held in place temporarily with zip ties.](./light_fromcp.jpg)
+This image shows the original temporary mount solution with zip ties. It should help contextualize where in the cab the light is located.
+
+![A view of the cabinet, showing the illumination provided.](./light_cabview.jpg)
+A view of the cabinet, showing the illumination provided by the service light.
+
+
 ![A view from the PCB maintenance door, looking upward at the clips and light fixture installed in the cabinet.](./clip_mounted.jpg)
 A view from the PCB maintenance door, looking upward at a clip and the light fixture as installed in the cabinet.
+
+
