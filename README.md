@@ -1,6 +1,6 @@
 # New Astro City Service Light Brackets
  
-3D printed bracket clips to non-destructively mount a service LED light inside a Sega New Astro City arcade cabinet. More images of the installed light soon!
+3D printed bracket clips to non-destructively mount a service LED light inside a Sega New Astro City arcade cabinet.
 
 -----
 
@@ -8,7 +8,7 @@
 
 ![A view into the service door, showing the extra illumination.](./light_fromdoor.jpg)
 
-When working on my New Astro City, I noticed that the interior could get quite dark; doing maintenance tasks or connecting new game boards was often inconvenienced by the poor visbility. I decided to mount a 24" LED light fixture inside the cabinet, to provide some much-needed extra illumination. Initially, I held the light fixture in place with zip-ties; however, I wanted something that was sturdier and more aesthetically pleasing. I also wanted anything I used to be non-destructive to the cabinet.
+When working on my New Astro City, I noticed that the interior could get quite dark; doing maintenance tasks or connecting new game boards was often inconvenienced by the poor visibility. I decided to mount a 24" LED light fixture inside the cabinet, to provide some much-needed extra illumination. Initially, I held the light fixture in place with zip-ties; however, I wanted something that was sturdier and more aesthetically pleasing. I also wanted anything I used to be non-destructive to the cabinet.
 
 To this end, I designed some custom 3D-printable bracket clips to securely mount the light fixture along the lower edge of the monitor support frame.
 
@@ -27,7 +27,7 @@ This print has been validated with the following print settings and postprocessi
 - White V4 standard resin
 - 0.1mm layer height
 - 100% scale
-- 20 minute isopropyl acohol bath
+- 20 minute isopropyl alcohol bath
 - 60 minute curing time at 60°C, under UV light bulbs
 - Lightly sanded to remove support markings
 
