@@ -20,13 +20,17 @@ The clips are designed to attach to the lower part of the monitor support frame 
 
 The [.blend](./Astro_City_TubeLight_Clip.blend) and [.stl](./Astro_City_TubeLight_Clip_15mmThickness.stl) files have been included; feel free to modify them and use them in your own applications.
 
-This print has been validated on:
+This print has been validated with the following print settings and postprocessing:
 
-- Formlabs Form2
+- Formlabs Form2 printer
 - White V4 standard resin
+- 0.1mm layer height
 - 100% scale
+- 20 minute isopropyl acohol bath
+- 60 minute curing time at 60°C, under UV light bulbs
+- Lightly sanded to remove support markings
 
-A quick test to ensure the print is properly scaled: as designed, the bracket clips are exactly 15mm wide, and are approximately 62mm long
+A quick test to ensure the print is properly scaled: as designed, the bracket clips are exactly 15mm wide.
 
 ## Installation
 
