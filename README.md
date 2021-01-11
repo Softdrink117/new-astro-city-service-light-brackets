@@ -31,6 +31,10 @@ This print has been validated with the following print settings and postprocessi
 - 60 minute curing time at 60°C, under UV light bulbs
 - Lightly sanded to remove support markings
 
+Additional verified prints from the community:
+
+- [Creality Ender3 Pro, using PLA+ filament](https://www.arcade-projects.com/threads/astro-new-astro-city-led-service-light-mod-3d-printed-mount-brackets.15970/post-259337)
+
 A quick test to ensure the print is properly scaled: as designed, the bracket clips are exactly 15mm wide.
 
 ## Installation
